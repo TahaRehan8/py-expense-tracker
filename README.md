@@ -33,8 +33,9 @@ A **user-friendly GUI application** to track personal expenses, built with Pytho
 ## 🚀 Installation & Usage
 
 1. **Clone the repository**:
-   ```bash
-   [git clone https://github.com/your-username/expense-tracker.git](https://github.com/TahaRehan8/py-expense-tracker.git)
+   ```
+    https://github.com/TahaRehan8/py-expense-tracker.git
+   
    ```
 
 2. **Run the application**:
